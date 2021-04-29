@@ -36,7 +36,7 @@
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
 
-  tags: [Графики, docs]
+  tags: [Графики, Project]
 
 - name: Project Three
   id: p3
